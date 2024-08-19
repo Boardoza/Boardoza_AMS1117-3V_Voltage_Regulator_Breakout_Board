@@ -35,17 +35,17 @@ The AMS1117 is a series of low dropout (LDO) voltage regulators with a fixed and
 ## Board Pinout
 
 | J1 & J3 Pin Number | Pin Name | Description |
-| :---: | --- | --- |
+| :---: | :---: | :---: |
 | 1 | VIN | Voltage Input |
 | 2 | GND | Ground |
 
 | J2 Pin Number | Pin Name | Description |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | 1 | GND | Ground |
 | 2 | VOUT | Voltage Output |
 
 | J4 Pin Number | Pin Name | Description |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | 1 | VOUT | Voltage Output |
 | 2 | GND | Ground |
 
