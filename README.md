@@ -2,8 +2,7 @@
 
 The **Boardoza AMS1117 3V3 Voltage Regulator Module** is a **low-dropout (LDO) linear voltage regulator** designed to provide a stable **3.3V output** from a **5V-12V input source**. It is ideal for powering **microcontrollers, sensors, and other low-power electronic devices**. With **built-in overcurrent and thermal protection**, this module ensures safe and efficient voltage regulation in various applications.
 
-
-## [Click here to purchase!](https://www.ozdisan.com)
+## [Click here to purchase!](https://ozdisan.com/maker-ve-iot-urunleri/boardoza/boardoza-modulleri/AMS1117-3-BREAKOUT-BOARD/1065557)
 
 | Front Side | Back Side |
 | :---: | :---: |
