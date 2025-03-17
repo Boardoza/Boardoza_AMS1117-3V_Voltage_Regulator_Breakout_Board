@@ -1,25 +1,33 @@
 # Boardoza AMS1117-3V Voltage Regulator Breakout Board
-The AMS1117 is a series of low dropout (LDO) voltage regulators with a fixed and adjustable voltage output. It's widely used in power management applications to provide a stable and precise voltage, especially when battery life is important.
 
-### [Click here to purchase!](https://www.ozdisan.com)
+The **Boardoza AMS1117 3V3 Voltage Regulator Module** is a **low-dropout (LDO) linear voltage regulator** designed to provide a stable **3.3V output** from a **5V-12V input source**. It is ideal for powering **microcontrollers, sensors, and other low-power electronic devices**. With **built-in overcurrent and thermal protection**, this module ensures safe and efficient voltage regulation in various applications.
+
+
+## [Click here to purchase!](https://www.ozdisan.com)
 
 | Front Side | Back Side |
 | :---: | :---: |
 | ![AMS1117-3 Front](./assets/AMS1117-3V%20Front.png)| ![AMS1117-3 Back](./assets/AMS1117-3V%20Back.png)|
 
 ---
+
 ## Key Features
-- Fixed Output: AMS1117 - 3.3 has fixed output voltage 3.3V.
-- Current Capability: It can deliver up to 1A of output current, making it suitable for many low-power applications.
-- Low Dropout: Typically requires only 1.2V difference between the input and output voltage at maximum load, facilitating higher efficiency.
-- Protection Features: Includes built-in overcurrent protection, thermal overload protection, and safe area protection.
-- Quiescent Current: Low quiescent current (drawn by the regulator itself), typically around 5mA, which is beneficial for battery-powered devices.
-- Noise Reduction: Output noise and ripple are minimal, but additional filtering cap can be added on the output for noise-sensitive applications.
+
+- **Fixed 3.3V Output**: Provides a stable **3.3V regulated voltage** for embedded systems.
+- **1A Output Current**: Can deliver up to **1A**, making it suitable for many low-power applications.
+- **Low Dropout Voltage**: Requires only **1.2V difference** between input and output at maximum load for higher efficiency.
+- **Built-in Protection Features**:
+  - **Overcurrent Protection**
+  - **Thermal Overload Protection**
+  - **Safe Area Protection**
+- **Low Quiescent Current**: Draws only **~5mA**, making it battery-friendly.
+- **Minimal Output Noise**: Designed to **reduce voltage ripple**, with the option to add additional filtering capacitors for noise-sensitive applications.
 
 ---
+
 ## Technical Specifications
 
-**Input Voltage:**	5V ~ 12V
+**Input Voltage:** 5V ~ 12V
 
 **Functions:** Low Dropout Voltage Regulator
 
@@ -29,9 +37,10 @@ The AMS1117 is a series of low dropout (LDO) voltage regulators with a fixed and
 
 **Operating Junction Temperature:** -40°C to +125°C
 
-**Board Dimensions:**	20mm x 40mm
+**Board Dimensions:** 20mm x 40mm
 
 ---
+
 ## Board Pinout
 
 | J1 & J3 Pin Number | Pin Name | Description |
@@ -50,28 +59,37 @@ The AMS1117 is a series of low dropout (LDO) voltage regulators with a fixed and
 | 2 | GND | Ground |
 
 ---
+
 ## Board Dimensions
+
 <img src="./assets/AMS1117-3 Dimension.png" alt="AMS1117 3.3V Dimension" width="430"/>
 
 ---
+
 ## Step Files
 
-[Boardoza AMS1117 3.3V.step](https://boardoza.com/stepfiles/AMS1117-3_Var2.step)
+[Boardoza AMS1117 3.3V.step](./assets/AMS1117-3.step)
 
 ---
+
 ## Datasheet
 
-[AMS1117 Datasheet.pdf](https://boardoza.com/wp-content/uploads/2024/05/ds1117.pdf)
+[AMS1117 Datasheet.pdf](./assets/AMS1117%20Datasheet.pdf)
 
 ---
+
 ## Version History
+
 - V1.0.0 - Initial Release
 
 ---
+
 ## Support
-- If you have any questions or need support, please contact support@boardoza.com
+
+- If you have any questions or need support, please contact <support@boardoza.com>
 
 ---
+
 ## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
