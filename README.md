@@ -56,7 +56,7 @@ The **Boardoza AMS1117 3V3 Voltage Regulator Module** is a **low-dropout (LDO) l
 | Pin Number | Pin Name | Description |
 | :---: | :---: | :---: |
 | 1 | VOUT | Voltage Output |
-| 2 | GND | Ground |
+| 2 | GND | Ground 
 
 ---
 
