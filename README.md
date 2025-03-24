@@ -6,7 +6,7 @@ The **Boardoza AMS1117 3V3 Voltage Regulator Module** is a **low-dropout (LDO) l
 
 | Front Side | Back Side |
 | :---: | :---: |
-| ![AMS1117-3 Front](./assets/AMS1117-3V%20Front.png)| ![AMS1117-3 Back](./assets/AMS1117-3V%20Back.png)|
+| ![AMS1117-3 Front](./assets/AMS1117-3%20Front.png)| ![AMS1117-3 Back](./assets/AMS1117-3V%20Back.png)|
 
 ---
 
@@ -42,17 +42,18 @@ The **Boardoza AMS1117 3V3 Voltage Regulator Module** is a **low-dropout (LDO) l
 
 ## Board Pinout
 
-| J1 & J3 Pin Number | Pin Name | Description |
+### **( J1 & J3 ) Voltage Input Connectors**
+
+| Pin Number | Pin Name | Description |
 | :---: | :---: | :---: |
 | 1 | VIN | Voltage Input |
 | 2 | GND | Ground |
 
-| J2 Pin Number | Pin Name | Description |
-| :---: | :---: | :---: |
-| 1 | GND | Ground |
-| 2 | VOUT | Voltage Output |
+---
 
-| J4 Pin Number | Pin Name | Description |
+### **( J2 & J4 ) Voltage Output Connectors**
+
+| Pin Number | Pin Name | Description |
 | :---: | :---: | :---: |
 | 1 | VOUT | Voltage Output |
 | 2 | GND | Ground |
@@ -61,13 +62,13 @@ The **Boardoza AMS1117 3V3 Voltage Regulator Module** is a **low-dropout (LDO) l
 
 ## Board Dimensions
 
-<img src="./assets/AMS1117-3 Dimension.png" alt="AMS1117 3.3V Dimension" width="430"/>
+<img src="./assets/AMS1117-3V Dimension.png" alt="AMS1117 3.3V Dimension" width="430"/>
 
 ---
 
 ## Step Files
 
-[Boardoza AMS1117 3.3V.step](./assets/AMS1117-3.step)
+[Boardoza AMS1117 3.3V.step](./assets/AMS1117-3%20Step.step)
 
 ---
 
